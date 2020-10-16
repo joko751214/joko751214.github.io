@@ -6,7 +6,7 @@
   <link href="https://joko751214.github.io/atom.xml" rel="self"/>
   
   <link href="https://joko751214.github.io/"/>
-  <updated>2020-10-15T08:53:04.166Z</updated>
+  <updated>2020-10-16T06:21:49.528Z</updated>
   <id>https://joko751214.github.io/</id>
   
   <author>
@@ -21,15 +21,12 @@
     <link href="https://joko751214.github.io/2020/10/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/"/>
     <id>https://joko751214.github.io/2020/10/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/</id>
     <published>2020-10-15T08:35:40.000Z</published>
-    <updated>2020-10-15T08:53:04.166Z</updated>
+    <updated>2020-10-16T06:21:49.528Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> a = <span class="string">&#x27;1&#x27;</span>;</span><br></pre></td></tr></table></figure><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">h1</span>&gt;</span>這是第一篇文章<span class="tag">&lt;/<span class="name">h1</span>&gt;</span></span><br></pre></td></tr></table></figure><figure class="highlight scss"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-class">.hex-text</span> &#123;</span><br><span class="line">  <span class="attribute">color</span>: white;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>這是一段話，中間插入一段 <code>var a</code> 程式碼</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=</summary>
-      
+    <summary type="html">這是一段話</summary>
     
     
     
